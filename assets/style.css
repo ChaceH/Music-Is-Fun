@@ -1,0 +1,17 @@
+.search-background {
+    background-image: url(yodamusic.jpg);
+    background-size: cover;
+}
+
+.main-background {
+    background-color: black;
+}
+
+.white-text {
+    color: white;
+}
+
+.justify-content-center {
+    display: flex;
+    justify-content: center;
+}
